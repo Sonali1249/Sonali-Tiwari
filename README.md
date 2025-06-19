@@ -7,7 +7,6 @@
 - 😄 My website: https://thetechbrothers.net
 - ⚡ Fun fact: I'm comming to teen
   
-### Connect with me:
 ## Connect with me  
 <div align="center">
 <a href=">
@@ -24,9 +23,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-# 📊 Gi
 
 <h2>🚀 Languages and Tools I Use</h2>
 <table><tr><td valign="top" width="33%">
